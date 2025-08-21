@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-How the project day one is looking I am currently feeling out the design I should prototype an Idea and work from there but I am enjoying being creative.
+How Day 1 of project is looking. I am currently feeling out the design I should prototype an Idea and work from there but I am enjoying being creative. Code is not clean yet as I will refactor when I finalise my design and put responsiveness in place. 
 <img width="1335" height="602" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/90ac5cba-ebb8-4150-acf2-80c5dcf3a808" />
 
 
